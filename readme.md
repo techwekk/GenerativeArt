@@ -13,7 +13,9 @@ You are not allowed to draw a line which crosses another line. A spot cannot hav
 
 ![Sprouts example](content/day01/01/game.png)
 
-Went abit ahead and created a camera based pixel visualization. 
+Went abit ahead and created a camera based pixel visualization. First I visualized it on a paper.
+
+![Sketch](content/day01/01/grid.png)
 
 ![Pixel manipulation](content/day01/01/Green.png)
 
