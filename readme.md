@@ -40,7 +40,7 @@ for (var x = 0; x < video.width; x += stepSize) {
 }
 }
 ```
-
+---
 
 ## [Day 2](https://digitalideation.github.io/gencg_h2101/notes/day02/) 
 
