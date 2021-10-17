@@ -47,9 +47,16 @@ for (var x = 0; x < video.width; x += stepSize) {
 ### 
 Second day was based on a grid challenge, where I used a repetitive loop which reproduces circles in round alignment infinitly. 
 
-{% raw %}
-<iframe src="content/day01/02/embed.html" width="100%" height="450" frameborder="no"></iframe>
-{% endraw %}
+![Pixel manipulation](content/day01/02/Patterns.png)
+
+---
+
+## [Day 3](https://digitalideation.github.io/gencg_h2101/notes/day03/) 
+
+### 
+Clock-o-day, I lacked some inspiration to use real-time to display a clock system. 
+
+![Pixel manipulation](content/day01/02/Patterns.png)
 
 
 ## Computing with computer
