@@ -20,15 +20,31 @@ Went abit ahead and created a camera based pixel visualization. First I visualiz
 ![Pixel manipulation](content/day01/01/Green.png)
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+// var stepSize = floor(map(mouseX, 0, width, 3, 3));
+for (var x = 0; x < video.width; x += stepSize) {
+  for (var y = 0; y < video.height; y += stepSize) {
+    var index = (video.width + x) * 30;
+    // Filter code
+    var redVal = video.pixels[index];
+    var greenVal = video.pixels[index + 1];
+    var blueVal = video.pixels[index + 2];
+    // remove the stroke
+    noStroke();
+    // change the colors
+    fill(redVal, greenVal, blueVal);
+    // change the shape of the 'pixels'
+    rectMode(CENTER);
+    rect(x, y, stepSize, stepSize);
+    //circle(x, y, stepSize, stepSize);
+  }
+}
 }
 ```
 
-### Moniker
 
+## [Day 2](https://digitalideation.github.io/gencg_h2101/notes/day02/) 
+
+### 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 {% raw %}
