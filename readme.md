@@ -60,12 +60,39 @@ Clock-o-day, I lacked some inspiration to use real-time to display a clock syste
 
 ![Finished outcome](content/day01/03/finishedclock.png)
 
-## Computing with computer
+---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+## [Day 4](https://digitalideation.github.io/gencg_h2101/notes/day04/) 
 
-> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+### 
+Creating a machine with a user input, I however tried to extend the challenge to write the fourier transformation algorithm with @codingtrain and to understand each step. On day 4 it still didn't work as how it should, however I kept working on it as a main project on day 6-8.
 
-* Lorem ipsum dolor sit amet
-* Consetetur sadipscing elitr, sed diam nonumy.
-* At vero eos et accusam et justo duo dolores et ea rebum. 
+![Pixel manipulation](content/day01/04/w4.png)
+
+---
+
+## [Day 5](https://digitalideation.github.io/gencg_h2101/notes/day05/) 
+
+### 
+Face generator where the user can interact with a click to generate newer faces. By clicking on the image, a new nose is displayed with a random geometric object.
+
+![Pixel manipulation](content/day01/05/Finished.png)
+![Pixel manipulation](content/day01/05/senior.png)
+![Pixel manipulation](content/day01/05/whatever.png)
+
+## [Day 6](https://digitalideation.github.io/gencg_h2101/notes/day06/) 
+
+### 
+Pixel generation by displaying a broken tv screen. Added some interaction, whenever user clicks on the screen he's able to drag along and draw on it. 
+
+![Pixel manipulation](content/day01/06/sw.png)
+![Pixel manipulation](content/day01/06/circle.png)
+![Pixel manipulation](content/day01/06/last.png)
+
+## [Day 7&8](https://digitalideation.github.io/gencg_h2101/notes/day07/) 
+
+### 
+I continued working on the fourier transformation from week 4 and was able to finish it. After writing the algorithm I added an own sound, where the user can interact based on the base volume with the drawn amplitudes.
+
+![Pixel manipulation](content/day01/06/Finished_project.png)
+
