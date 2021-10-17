@@ -54,10 +54,11 @@ Second day was based on a grid challenge, where I used a repetitive loop which r
 ## [Day 3](https://digitalideation.github.io/gencg_h2101/notes/day03/) 
 
 ### 
-Clock-o-day, I lacked some inspiration to use real-time to display a clock system. 
+Clock-o-day, I lacked some inspiration to use real-time to display a clock system. My first attempt included waves however I decided to go against it. 
 
-![Pixel manipulation](content/day01/02/Patterns.png)
+![Pixel manipulation](content/day01/03/clock.png)
 
+![Finished outcome](content/day01/03/finishedclock.png)
 
 ## Computing with computer
 
