@@ -51,3 +51,4 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
+theme: jekyll-theme-midnight
