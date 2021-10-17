@@ -94,5 +94,5 @@ Pixel generation by displaying a broken tv screen. Added some interaction, whene
 ### 
 I continued working on the fourier transformation from week 4 and was able to finish it. After writing the algorithm I added an own sound, where the user can interact based on the base volume with the drawn amplitudes.
 
-![Pixel manipulation](content/day01/06/Finished_project.png)
+![Pixel manipulation](content/day01/04/Finished_project.png)
 
